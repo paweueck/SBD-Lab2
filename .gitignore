@@ -259,4 +259,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+crawl-data/
+input/
+
 # End of https://www.gitignore.io/api/osx
